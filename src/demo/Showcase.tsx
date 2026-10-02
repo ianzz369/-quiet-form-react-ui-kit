@@ -274,7 +274,7 @@ export default function Showcase() {
       )}
       <footer>
         <span>COMMON ORBIT STUDIO</span>
-        <span>QUIET FORM — FOUNDATION 0.1.1</span>
+        <span>QUIET FORM — FOUNDATION 1.0.0</span>
         <a href="#top">Back to top</a>
       </footer>
     </main>
