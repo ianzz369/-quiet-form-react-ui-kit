@@ -1,0 +1,10 @@
+/* Screen integration contract: preserve the navigation safe area. */
+.qf-kit .phone {
+  flex-shrink: 0;
+}
+.qf-kit .phone-content {
+  overscroll-behavior: contain;
+}
+.qf-kit .phone:has(.journal-dialog) .phone-content {
+  overflow: hidden;
+}

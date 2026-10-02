@@ -1,0 +1,35 @@
+/* Minimal HTML defaults, replacing the previous Tailwind preflight. */
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+button {
+  font-family: inherit;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+button {
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+html {
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+button {
+  border-style: solid;
+}
+textarea {
+  box-sizing: border-box;
+}

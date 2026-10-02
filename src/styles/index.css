@@ -1,0 +1,28 @@
+@import "../assets/fonts/fonts.css";
+@import "../tokens/tokens.css";
+@import "./reset.css";
+@import "./components.css";
+@import "./screens.css";
+.theme-b {
+  font-family: var(--qf-font-body);
+}
+.theme-b .panel {
+  box-shadow: var(--qf-shadow-raised);
+}
+.theme-b .text-area {
+  width: 100%;
+  resize: vertical;
+  background: var(--qf-surface);
+  color: var(--qf-ink);
+  border: 1px solid #ffffff30;
+  box-shadow: var(--qf-shadow-inset);
+  min-height: 118px;
+  padding: 15px;
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 1.6;
+  border-radius: var(--qf-radius-input);
+}
+.theme-b .text-area::placeholder {
+  color: #8b8d85;
+}

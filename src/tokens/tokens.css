@@ -1,0 +1,24 @@
+/* Approved Quiet Form material values. Override these inside .qf-kit to theme a copy. */
+:root,
+.qf-kit {
+  --qf-surface: #e7e6e2;
+  --qf-ink: #454640;
+  --qf-muted: #777973;
+  --qf-accent: #676f61;
+  --qf-action: #6c7562;
+  --qf-chart: #89957c;
+  --qf-progress: #80926c;
+  --qf-shadow-dark: #c5c4bf;
+  --qf-shadow-light: #ffffff99;
+  --qf-shadow-raised:
+    8px 8px 18px #c5c4bfaa, -7px -7px 18px #fff9, inset 1px 1px 1px #fff4;
+  --qf-shadow-inset: inset 4px 4px 9px #c5c4bfa0, inset -4px -4px 9px #fff9;
+  --qf-radius-panel: 23px;
+  --qf-radius-input: 17px;
+  --qf-font-body: "Manrope", sans-serif;
+  --qf-space-1: 4px;
+  --qf-space-2: 8px;
+  --qf-space-3: 12px;
+  --qf-space-4: 16px;
+  --qf-space-6: 24px;
+}

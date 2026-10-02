@@ -1,0 +1,53 @@
+QUIET FORM — COMMERCIAL USE LICENSE
+Version 1.0
+Copyright © 2026 Common Orbit Studio. All rights reserved.
+
+This license applies to Quiet Form — Soft Neumorphic Wellness + Productivity React UI Kit (the “Kit”) when purchased or otherwise lawfully obtained directly from Common Orbit Studio or an authorized marketplace.
+
+1. GRANT OF LICENSE
+Subject to these terms, Common Orbit Studio grants the purchaser a non-exclusive, non-transferable license to use, modify, and incorporate the Kit into personal and commercial end products.
+
+You may:
+- edit and customize the source code, styles, tokens, text, and included demo content;
+- use the Kit in websites, web applications, prototypes, client work, internal tools, and commercial digital products;
+- create end products for yourself or for clients;
+- deploy compiled or bundled applications that include modified or unmodified portions of the Kit;
+- use screenshots or recordings of your own implementation for portfolio and marketing purposes.
+
+2. SEAT / USER
+Unless a marketplace purchase explicitly provides a different license, this license is for one purchaser or one individual user. Team members or additional users should obtain their own license unless Common Orbit Studio provides a team license in writing.
+
+3. RESTRICTIONS
+You may not:
+- resell, redistribute, share, sublicense, upload, or give away the Kit or its source files as-is or with minor modifications;
+- make the Kit, or a substantially similar derivative of it, available as a competing UI kit, template, component library, starter kit, design resource, stock asset, or downloadable source-code product;
+- include the Kit in a product whose primary value is allowing another person to extract or reuse the Kit’s source components;
+- publish the Kit’s source files in a public repository or other location where third parties can freely download them;
+- claim authorship of the original Quiet Form design system, source kit, or Common Orbit Studio branding;
+- remove or misrepresent third-party license notices that are required to remain with redistributed third-party materials.
+
+4. CLIENT WORK
+You may use the Kit in work created for a client. The client may use the resulting end product. The client does not receive the right to extract, redistribute, resell, or reuse the original Kit as a standalone design resource unless the client separately obtains an appropriate license.
+
+5. THIRD-PARTY MATERIALS
+The Kit contains certain third-party fonts, icons, packages, and dependencies that remain subject to their own licenses. Those materials are identified in THIRD_PARTY_NOTICES.md and in the included license files. This license does not replace or limit those third-party licenses.
+
+6. MARKETPLACE TERMS
+If the Kit is purchased through a marketplace that imposes its own mandatory license terms, those marketplace terms govern to the extent of any direct conflict with this license.
+
+7. OWNERSHIP
+Common Orbit Studio retains all ownership rights in the original Kit, including its source structure, original component designs, documentation, and branding, except for third-party materials owned by their respective licensors.
+
+8. NO WARRANTY
+The Kit is provided “as is”, without warranties of any kind, express or implied. You are responsible for testing, security, accessibility, legal compliance, integration, and production readiness in your own application.
+
+9. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, Common Orbit Studio will not be liable for indirect, incidental, special, consequential, or business-interruption damages arising from use of the Kit.
+
+10. TERMINATION
+This license terminates automatically if you materially violate these terms. Upon termination, you must stop distributing any uncompiled copy of the Kit and remove any unlawfully shared source files.
+
+11. QUESTIONS / EXTENDED LICENSES
+For team, agency, redistribution, educational, or extended licensing, contact Common Orbit Studio through the storefront where the Kit was purchased.
+
+By downloading, purchasing, or using the Kit, you agree to these terms.
